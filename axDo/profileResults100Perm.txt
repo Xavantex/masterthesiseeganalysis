@@ -1,0 +1,7 @@
+Time per method:
+   AxDo13_permutate  2.50 hours  (71%)
+   AxDo11NonAmp      48.1 minutes  (23%)
+   AxDo11Amp         10.0 minutes  (5%)
+   AxDo12            93.0 seconds  (1%)
+   AxDo13_ttest      5.8 seconds  (0%)
+Total time 3.49 hours
